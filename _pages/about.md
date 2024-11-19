@@ -36,11 +36,11 @@ I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-
   Hao Zhang, **Yixin Ren**, Yewei Xia, Shuigeng Zhou, Jihong Guan.  
   IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
 
-- [Learning Adaptive Kernels for Statistical Independence Tests](https://proceedings.mlr.press/v238/ren24a/ren24a.pdf).  
+- [Learning Adaptive Kernels for Statistical Independence Tests](https://proceedings.mlr.press/v238/ren24a/ren24a.pdf).   
   **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   27th International Conference on Artificial Intelligence and Statistics (**AISTATS 2024**)
 
-- [Multi-Level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:eQOLeE2rZwMC).
+- [Multi-Level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:eQOLeE2rZwMC).  
   **Yixin Ren**, Hao Zhang, Yewei Xia,  Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)  
 
