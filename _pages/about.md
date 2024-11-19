@@ -32,7 +32,7 @@ I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-
   **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)  
 
-- Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph.  
+- [Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph](https://ieeexplore.ieee.org/abstract/document/10614830).  
   Hao Zhang, **Yixin Ren**, Yewei Xia, Shuigeng Zhou, Jihong Guan.  
   IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
 
