@@ -25,7 +25,7 @@ Sorted by Research Topics
   Hao Zhang, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
-**Statistical Test**
+**Statistical Testing**
 
 - Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing.  
   **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
