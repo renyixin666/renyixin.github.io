@@ -48,7 +48,7 @@ I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-
   Hao Zhang, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
-- [Incremental graph classification by class prototype construction and augmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:_FxGoFyzp5QC).
+- [Incremental graph classification by class prototype construction and augmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:_FxGoFyzp5QC).  
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.
   Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**)
 
