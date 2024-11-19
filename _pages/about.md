@@ -17,7 +17,7 @@ I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-
 
 * Causal discovery under the practical issues
 * Statistical inference: kernel-based hypothesis testing
-* Machine learning: focus on continual learning, recommendation system and generative modeling
+* Machine learning: continual learning, recommendation system and generative modeling
 
 
 ## Selected Publications 
