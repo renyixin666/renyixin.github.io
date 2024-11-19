@@ -41,9 +41,7 @@ I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-
   27th International Conference on Artificial Intelligence and Statistics (**AISTATS 2024**)
 
 - [Multi-Level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:eQOLeE2rZwMC)
-
   **Yixin Ren**, Hao Zhang, Yewei Xia,  Jihong Guan, Shuigeng Zhou.
-
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)  
 
 - [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
@@ -51,9 +49,7 @@ I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
 - [Incremental graph classification by class prototype construction and augmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:_FxGoFyzp5QC)
-
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.
-
   Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**)
 
 - [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743).  
