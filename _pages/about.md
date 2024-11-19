@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I am Yixin Ren, a fourth year PhD student at Fudan University. \
+I am Yixin Ren, a fourth year PhD student at Fudan University. 
 
 I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN)'s group. I received my B.S. degree in Automation from the University of Science and Technology of China. In the second year of my PhD, I interned at Alibaba in Hangzhou. In the third year of my Ph.D., I went to the Chinese University of Hong Kong as a research assistant, cosupervised by Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). Now, I mainly collaborate with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at Shenzhen Institutes of Advanced Technology (SIAT) for research. I am open to possible collaboration or discussion opportunities. If you are interested, please feel free to contact me via [email](yxren21@m.fudan.edu.cn). 
 
