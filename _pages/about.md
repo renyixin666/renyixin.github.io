@@ -21,7 +21,7 @@ I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-
 
 ## Selected Publications 
 
-( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://xyw5vplus1.github.io/publications/))
+( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://github.com/renyixin666/renyixin.github.io/blob/master/_pages/publications.md))
 
 - Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity.
   **Yixin Ren\***, Haocheng Zhang\*, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.
