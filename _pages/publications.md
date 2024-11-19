@@ -39,7 +39,7 @@ Sorted by Research Topics
   **Yixin Ren**, Hao Zhang, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
-**Multi-modal Recommendation**
+**Continual Learning**
 
 - [Incremental graph classification by class prototype construction and augmentation](https://dl.acm.org/doi/abs/10.1145/3583780.3614932).   
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.  
