@@ -9,11 +9,11 @@
 locale                   : "Shanghai"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name Yewei Xia
+name                     : &name Yixin Ren
 description              : &description "personal description"
 url                      : https://xyw5vplus1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xyw5vplus1/xyw5vplus1.github.io"
+repository               : "renyixin666/xyw5vplus1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,8 +85,8 @@ author:
   bio              : 
   location         : "Shanghai, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=zh-CN"
-  email            : "ywxia23@.m.fudan.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN"
+  email            : "yxren21@.m.fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xyw5vplus1"
+  github           : "renyixin666"
   google_plus      :
   keybase          :
   instagram        :
