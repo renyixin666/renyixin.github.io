@@ -23,35 +23,35 @@ I am a PhD student in the Department of Computer Science at Fudan University, wh
 (* denotes equal contribution; full list available on [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://github.com/renyixin666/renyixin.github.io/blob/master/_pages/publications.md))
 
 - **Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity**  
-  *Yixin Ren*\*, Haocheng Zhang*, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  **Yixin Ren**\*, Haocheng Zhang\*, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *KDD 2025* (Research Track)
   
 - **Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing**  
-  *Yixin Ren*, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *NeurIPS 2024*
 
 - [**Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph**](https://ieeexplore.ieee.org/abstract/document/10614830)  
-  Hao Zhang, *Yixin Ren*, Yewei Xia, Shuigeng Zhou, Jihong Guan.  
+  Hao Zhang, **Yixin Ren**, Yewei Xia, Shuigeng Zhou, Jihong Guan.  
   *IEEE TPAMI*
 
 - [**Learning Adaptive Kernels for Statistical Independence Tests**](https://proceedings.mlr.press/v238/ren24a/ren24a.pdf)  
-  *Yixin Ren*, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *AISTATS 2024*
 
 - [**Multi-Level Wavelet Mapping Correlation for Statistical Dependence Measurement**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:eQOLeE2rZwMC)  
-  *Yixin Ren*, Hao Zhang, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
+  **Yixin Ren**, Hao Zhang, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   *AAAI 2023*
 
 - [**Differentially Private Nonlinear Causal Discovery from Numerical Data**](https://ojs.aaai.org/index.php/AAAI/article/view/26452)  
-  Hao Zhang, Yewei Xia, *Yixin Ren*, Jihong Guan, Shuigeng Zhou.  
+  Hao Zhang, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   *AAAI 2023*
 
 - [**Incremental Graph Classification by Class Prototype Construction and Augmentation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:_FxGoFyzp5QC)  
-  *Yixin Ren*, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.  
+  **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.  
   *CIKM 2023*
 
 - [**Causal Discovery by Continuous Optimization with Conditional Independence Constraint**](https://ieeexplore.ieee.org/abstract/document/10415743)  
-  Yewei Xia, Hao Zhang, *Yixin Ren*, Jihong Guan, Shuigeng Zhou.  
+  Yewei Xia, Hao Zhang, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   *ICDM 2023* (Regular Paper, acceptance rate ~9.37%)
 
 ### Academic Service  
