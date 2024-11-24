@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Shanghai"
-title                    : "Yixin Ren (任一鑫) Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name Yixin Ren
 description              : &description "personal description"
