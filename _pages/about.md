@@ -54,7 +54,7 @@ I am a PhD student in the Department of Computer Science at Fudan University, wh
   Yewei Xia, Hao Zhang, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   *ICDM 2023* (Regular Paper, acceptance rate ~9.37%)
 
-### Academic Service  
+### ✍️ Academic Service  
 - **Reviewer**: ICML, NeurIPS, ICLR, AAAI, AISTATS
 
 ### 📐 Teaching Experience  
@@ -63,7 +63,7 @@ I am a PhD student in the Department of Computer Science at Fudan University, wh
     Instructor: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html)  
     Enrollment: 21 graduate students
 
-### 🎖 Awards  
+### 🥇 Awards  
 - First Prize, Chinese Mathematics Competitions (CMC), First Place in Anhui Province Preliminary Round
 
 ### 🧩 Miscellaneous  
