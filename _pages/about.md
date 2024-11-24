@@ -14,12 +14,12 @@ Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
 I am a PhD student in the Department of Computer Science at Fudan University, where I work under the supervision of Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). My research focuses on causal discovery, statistical inference, and machine learning. I have interned at Alibaba and worked as a research assistant at the Chinese University of Hong Kong under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). Currently, I collaborate with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at Shenzhen Institutes of Advanced Technology (SIAT). I am open to collaboration opportunities, so feel free to reach out.
 
-### Research Interests
+### 🔥 Research Interests
 - **Causal Discovery**: Addressing practical challenges in discovering causal relationships.
 - **Statistical Inference**: Developing kernel-based hypothesis testing methods.
 - **Machine Learning**: Focusing on continual learning, recommendation systems, and generative modeling.
 
-### Selected Publications  
+### 📝 Selected Publications  
 (* denotes equal contribution; full list available on [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://github.com/renyixin666/renyixin.github.io/blob/master/_pages/publications.md))
 
 - **Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity**  
@@ -57,16 +57,16 @@ I am a PhD student in the Department of Computer Science at Fudan University, wh
 ### Academic Service  
 - **Reviewer**: ICML, NeurIPS, ICLR, AAAI, AISTATS
 
-### Teaching Experience  
+### 📐 Teaching Experience  
 - **Teaching Assistant**:  
   - 2023 Fudan Intensive Summer Course: *Foundations of Causal Inference and Discovery*  
     Instructor: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html)  
     Enrollment: 21 graduate students
 
-### Awards  
+### 🎖 Awards  
 - First Prize, Chinese Mathematics Competitions (CMC), First Place in Anhui Province Preliminary Round
 
-### Miscellaneous  
+### 🧩 Miscellaneous  
 - In my recent free time, I’ve developed an interest in learning about general relativity.  
   *My childhood dream was to become a theoretical physicist, but due to life's circumstances, it has remained a hobby.*
 - I appreciate abstract art, particularly Picasso’s works, as well as the elegant simplicity of mathematical structures.  
