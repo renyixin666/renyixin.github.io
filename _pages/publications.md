@@ -27,7 +27,7 @@ Sorted by Research Topics
 
 **Statistical Testing**
 
-- Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing.  
+- [Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing](https://openreview.net/pdf?id=BEiqNQZIky).  
   **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)  
 
