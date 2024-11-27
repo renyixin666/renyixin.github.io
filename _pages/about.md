@@ -26,7 +26,7 @@ I am a PhD student in the Department of Computer Science at Fudan University, wh
   **Yixin Ren**\*, Haocheng Zhang\*, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *KDD 2025* (Research Track)
   
-- [**Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing**](https://openreview.net/pdf?id=BEiqNQZIky) 
+- [**Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing**](https://openreview.net/pdf?id=BEiqNQZIky)  
   **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *NeurIPS 2024*
 
