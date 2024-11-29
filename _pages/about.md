@@ -62,6 +62,8 @@ I am a PhD student in the Department of Computer Science at Fudan University, wh
   - 2023 Fudan Intensive Summer Course: *Foundations of Causal Inference and Discovery*  
     Instructor: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html)  
     Enrollment: 21 graduate students
+  - 2021 Fudan Course: *C++ Programming Course*
+    Instructor: [Yonghui Wu](https://cs.fudan.edu.cn/3e/9d/c25926a278173/page.html)
 
 ### 🥇 Awards  
 - First Prize, Chinese Mathematics Competitions (CMC), First Place in Anhui Province Preliminary Round
