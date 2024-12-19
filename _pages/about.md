@@ -73,6 +73,7 @@ I am a PhD student in the Department of Computer Science at Fudan University, wh
   *My childhood dream was to become a theoretical physicist, but due to life's circumstances, it has remained a hobby.*
 - I appreciate abstract art, particularly Picasso’s works, as well as the elegant simplicity of mathematical structures.  
 - I enjoy singing, especially songs by Jacky Cheung, Eason Chan, and more recently, Jian Li.
+- Recently I've been interested in using suno ai for music generation.
 
 ### Useful Links
 - [**Generative Modeling by Estimating Gradients of the Data Distribution**](https://yang-song.net/blog/2021/score/), by Yang Song
