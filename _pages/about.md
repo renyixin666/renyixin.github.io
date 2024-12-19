@@ -72,5 +72,13 @@ I am a PhD student in the Department of Computer Science at Fudan University, wh
 - In my recent free time, I’ve developed an interest in learning about general relativity.  
   *My childhood dream was to become a theoretical physicist, but due to life's circumstances, it has remained a hobby.*
 - I appreciate abstract art, particularly Picasso’s works, as well as the elegant simplicity of mathematical structures.  
-- I enjoy singing, especially songs by Jacky Cheung, Eason Chan, and more recently, Jian Li. 
+- I enjoy singing, especially songs by Jacky Cheung, Eason Chan, and more recently, Jian Li.
+
+### Useful Links
+- [**Generative Modeling by Estimating Gradients of the Data Distribution**](https://yang-song.net/blog/2021/score/), by Yang Song
+- [**Perspectives on diffusion**](https://sander.ai/2023/07/20/perspectives.html), by Sander Dieleman
+- [**Diffusion Models for Video Generation**](https://lilianweng.github.io/posts/2024-04-12-diffusion-video), by Lilian Weng
+- [**The AI Revolution: The Road to Superintelligence**](https://lilianweng.github.io/posts/2024-04-12-diffusion-video), by Maarten Steinbuch
+- [**Understanding LSTM Networks**](https://colah.github.io/posts/2015-08-Understanding-LSTMs), by Christopher Olah
+- [**The Unreasonable Effectiveness of Recurrent Neural Networks**](https://karpathy.github.io/2015/05/21/rnn-effectiveness), by Andrej Karpathy
 
