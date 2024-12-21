@@ -40,7 +40,10 @@ Sorted by Research Topics
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
 **Continual Learning**
-
+- [A New Model for Prototype-based Continual Learning in Hyperspherical Space]()
+  Yixin Ren, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2025**)
+  
 - [Incremental graph classification by class prototype construction and augmentation](https://dl.acm.org/doi/abs/10.1145/3583780.3614932).   
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.  
   Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**)
