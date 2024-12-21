@@ -41,7 +41,7 @@ Sorted by Research Topics
 
 **Continual Learning**
 - [A New Model for Prototype-based Continual Learning in Hyperspherical Space]()  
-  Yixin Ren, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.  
+  **Yixin Ren**, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.  
   IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2025**)
   
 - [Incremental graph classification by class prototype construction and augmentation](https://dl.acm.org/doi/abs/10.1145/3583780.3614932).   
