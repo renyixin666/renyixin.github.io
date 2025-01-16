@@ -82,4 +82,5 @@ I am a PhD student in the Department of Computer Science at Fudan University, wh
 - [**The AI Revolution: The Road to Superintelligence**](https://maartensteinbuch.com/2015/02/02/the-ai-revolution-the-road-to-superintelligence), by Maarten Steinbuch
 - [**Understanding LSTM Networks**](https://colah.github.io/posts/2015-08-Understanding-LSTMs), by Christopher Olah
 - [**The Unreasonable Effectiveness of Recurrent Neural Networks**](https://karpathy.github.io/2015/05/21/rnn-effectiveness), by Andrej Karpathy
+- [**Low Rank Methods**](https://www.ethanepperly.com/index.php/posts-by-topic/), by Ethan N. Epperly
 
