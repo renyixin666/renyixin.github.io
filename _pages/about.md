@@ -12,7 +12,11 @@ redirect_from:
 Fourth-year PhD student at Fudan University  
 Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
-I am a PhD student in the Department of Computer Science at Fudan University, where I work under the supervision of Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). My research focuses on causal discovery, statistical inference, and machine learning. I have interned at Alibaba and worked as a research assistant at the Chinese University of Hong Kong under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). Currently, I collaborate with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at Shenzhen Institutes of Advanced Technology (SIAT). I am open to collaboration opportunities, so feel free to reach out.
+I am a PhD student in the Department of Computer Science at Fudan University, where I work under the supervision of Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I completed my B.S. in Automation at University of Science and Technology of China. 
+
+I have interned at Alibaba and worked as a research assistant at the Chinese University of Hong Kong under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). Currently, I collaborate with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at Shenzhen Institutes of Advanced Technology (SIAT) and interned at Huawei Terminal Cloud Department.
+
+My research focuses on causal discovery, statistical inference, and machine learning. I am open to collaboration opportunities, so feel free to reach out.
 
 ### 🔥 Research Interests
 - **Causal Discovery**: Addressing practical challenges in discovering causal relationships.
