@@ -52,7 +52,7 @@ My research focuses on causal discovery, statistical inference, and machine lear
 
 - [**Incremental Graph Classification by Class Prototype Construction and Augmentation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:_FxGoFyzp5QC)  
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.  
-  *CIKM 2023*
+  *CIKM 2023* (Oral)
 
 - [**Causal Discovery by Continuous Optimization with Conditional Independence Constraint**](https://ieeexplore.ieee.org/abstract/document/10415743)  
   Yewei Xia, Hao Zhang, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
