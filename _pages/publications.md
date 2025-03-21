@@ -39,8 +39,12 @@ Sorted by Research Topics
   **Yixin Ren**, Hao Zhang, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
-**Continual Learning**
-- [A New Model for Prototype-based Continual Learning in Hyperspherical Space]()  
+**Continual Learning/Mitigating Catastrophic Forgetting**
+- [Mitigating Knowledge Forgetting by Generative Knowledge Replay and Forgetting-aware Aggregation in Semi-Supervised Federated Learning]()
+  Hongquan Liu, **Yixin Ren**, Jihong Guan, Shuigeng Zhou
+  IEEE International Conference on Multimedia & Expo (**ICME 2025**)
+  
+- [A New Model for Prototype-based Continual Learning in Hyperspherical Space](https://ieeexplore.ieee.org/abstract/document/10887811)  
   **Yixin Ren**, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.  
   IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2025**)
   
