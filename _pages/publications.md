@@ -9,7 +9,7 @@ Sorted by Research Topics
 
 **Causal Discovery under the Practical Issues**
 - Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise.  
-  Yewei Xia*, Xueliang Cui*, Hao Zhang, **Yixin Ren**, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.  
+  Yewei Xia\*, Xueliang Cui\*, Hao Zhang, **Yixin Ren**, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.  
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**) 
 
 - Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags.  
