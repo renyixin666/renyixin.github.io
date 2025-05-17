@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Sorted by Research Topics
+Sorted by Research Topics (* denotes equal contribution;)
 
 **Causal Discovery under the Practical Issues**
 - Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise.  
