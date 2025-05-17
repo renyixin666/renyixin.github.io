@@ -26,6 +26,11 @@ My research focuses on causal discovery, statistical inference, and machine lear
 ### 📝 Selected Publications  
 (* denotes equal contribution; full list available on [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://github.com/renyixin666/renyixin.github.io/blob/master/_pages/publications.md))
 
+- Score-based Generative Modeling for Conditional Independence Testing.  
+  **Yixin Ren**\*, Chenghou Jin\*, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track February)
+  
+  
 - **Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity**  
   **Yixin Ren**\*, Haocheng Zhang\*, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *KDD 2025* (Research Track)
