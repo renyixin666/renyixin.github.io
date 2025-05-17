@@ -30,8 +30,8 @@ My research focuses on causal discovery, statistical inference, and machine lear
   **Yixin Ren**\*, Chenghou Jin\*, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *KDD 2025* (Research Track)
 
-- Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags.
-  Yewei Xia*, Yixin Ren*, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.
+- Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags.  
+  Yewei Xia*, Yixin Ren*, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
   *IJCAI 2025*
   
 - **Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity**  
