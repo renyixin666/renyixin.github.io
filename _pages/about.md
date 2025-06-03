@@ -74,8 +74,6 @@ My research focuses on causal discovery, statistical inference, and machine lear
   - 2023 Fudan Intensive Summer Course: *Foundations of Causal Inference and Discovery*  
     Instructor: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html)  
     Enrollment: 21 graduate students
-  - 2021 Fudan Course: *C++ Programming Course*  
-    Instructor: [Yonghui Wu](https://cs.fudan.edu.cn/3e/9d/c25926a278173/page.htm)
 
 ### 🥇 Awards  
 - First Prize, Chinese Mathematics Competitions (CMC), First Place in Anhui Province Preliminary Round
@@ -91,8 +89,5 @@ My research focuses on causal discovery, statistical inference, and machine lear
 - [**Generative Modeling by Estimating Gradients of the Data Distribution**](https://yang-song.net/blog/2021/score/), by Yang Song
 - [**Perspectives on diffusion**](https://sander.ai/2023/07/20/perspectives.html), by Sander Dieleman
 - [**Diffusion Models for Video Generation**](https://lilianweng.github.io/posts/2024-04-12-diffusion-video), by Lilian Weng
-- [**The AI Revolution: The Road to Superintelligence**](https://maartensteinbuch.com/2015/02/02/the-ai-revolution-the-road-to-superintelligence), by Maarten Steinbuch
-- [**Understanding LSTM Networks**](https://colah.github.io/posts/2015-08-Understanding-LSTMs), by Christopher Olah
-- [**The Unreasonable Effectiveness of Recurrent Neural Networks**](https://karpathy.github.io/2015/05/21/rnn-effectiveness), by Andrej Karpathy
 - [**Low Rank Methods**](https://www.ethanepperly.com/index.php/posts-by-topic/), by Ethan N. Epperly
 
