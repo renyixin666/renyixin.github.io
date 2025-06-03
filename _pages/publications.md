@@ -33,7 +33,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
 **Statistical Testing**
-- [Score-based Generative Modeling for Conditional Independence Testing](https://arxiv.org/pdf/2412.17717?).  
+- [Score-based Generative Modeling for Conditional Independence Testing](https://arxiv.org/pdf/2505.23309).  
   **Yixin Ren**\*, Chenghou Jin\*, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track February) 
 
