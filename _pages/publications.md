@@ -8,10 +8,6 @@ author_profile: true
 Sorted by Research Topics (* denotes equal contribution;)
 
 **Causal Discovery under the Practical Issues**
-- Regression-based Conditional Independence Test with Adaptive Kernels.  
-  **Yixin Ren**, Juncai Zhang, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
-  Artificial Intelligence (**AIJ 2025**)
-  
 - Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise.  
   Yewei Xia\*, Xueliang Cui\*, Hao Zhang, **Yixin Ren**, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.  
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**) 
@@ -37,6 +33,10 @@ Sorted by Research Topics (* denotes equal contribution;)
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
 **Statistical Testing**
+- Regression-based Conditional Independence Test with Adaptive Kernels.  
+  **Yixin Ren**, Juncai Zhang, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
+  Artificial Intelligence (**AIJ 2025**)
+  
 - [Score-based Generative Modeling for Conditional Independence Testing](https://arxiv.org/pdf/2505.23309).  
   **Yixin Ren**\*, Chenghou Jin\*, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track February) 
