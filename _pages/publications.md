@@ -35,7 +35,7 @@ Sorted by Research Topics (* denotes equal contribution;)
 **Statistical Testing**
 - Regression-based Conditional Independence Test with Adaptive Kernels.  
   **Yixin Ren**, Juncai Zhang, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
-  The journal of Artificial Intelligence (**AIJ 2025**)
+  The journal of Artificial Intelligence (**AIJ 2025**) 
   
 - [Score-based Generative Modeling for Conditional Independence Testing](https://arxiv.org/pdf/2505.23309).  
   **Yixin Ren**\*, Chenghou Jin\*, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
@@ -64,10 +64,9 @@ Sorted by Research Topics (* denotes equal contribution;)
   
 - [Incremental graph classification by class prototype construction and augmentation](https://dl.acm.org/doi/abs/10.1145/3583780.3614932).   
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.    
-  Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**)
+  Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023 (Oral)**)
 
 **Discover Causal Knowledge in Biological Data**
-
 - [Hybrid Causal Feature Selection for Cancer Biomarker Identification from RNA-seq Data](https://ieeexplore.ieee.org/abstract/document/10541056).  
   Wenwei Xu\*, Hao Zhang\*, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
