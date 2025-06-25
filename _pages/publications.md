@@ -35,7 +35,7 @@ Sorted by Research Topics (* denotes equal contribution;)
 **Statistical Testing**
 - Regression-based Conditional Independence Test with Adaptive Kernels.  
   **Yixin Ren**, Juncai Zhang, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
-  Artificial Intelligence (**AIJ 2025**)
+  The journal of Artificial Intelligence (**AIJ 2025**)
   
 - [Score-based Generative Modeling for Conditional Independence Testing](https://arxiv.org/pdf/2505.23309).  
   **Yixin Ren**\*, Chenghou Jin\*, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
