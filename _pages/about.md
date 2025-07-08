@@ -26,7 +26,7 @@ My research focuses on causal discovery, statistical inference, and machine lear
 ### 📝 Selected Publications  
 (* denotes equal contribution; full list available on [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://github.com/renyixin666/renyixin.github.io/blob/master/_pages/publications.md))
 
-- **Regression-based Conditional Independence Test with Adaptive Kernels**  
+- [**Regression-based Conditional Independence Test with Adaptive Kernels**](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001109)  
   **Yixin Ren**, Juncai Zhang, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
   *The journal of Artificial Intelligence (AIJ), 2025*
 
