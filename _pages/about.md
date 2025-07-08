@@ -14,7 +14,11 @@ Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
 I am a PhD student in the Department of Computer Science at Fudan University, where I work under the supervision of Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I completed my B.S. in Automation at University of Science and Technology of China. 
 
-I have interned at Alibaba and worked as a research assistant at the Chinese University of Hong Kong under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). Currently, I collaborate with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at Shenzhen Institutes of Advanced Technology (SIAT) and interned at Huawei Terminal Cloud Department. Next, I will go to Tencent for a research project internship in the Rhion-Bird Talent Cultivation Program.
+Internship Experience:
+I have interned at Alibaba and the Huawei Terminal Cloud Department. Currently, I am participating in a research internship at Tencent as part of the Rhino-Bird Talent Cultivation Program.
+
+Academic Collaboration:
+I have worked as a research assistant at The Chinese University of Hong Kong under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). I am also collaborating with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences.
 
 My research focuses on causal discovery, statistical inference, and machine learning. My recent interest is in RLHF applications in gaming scenarios. I am open to collaboration opportunities, so feel free to reach out. 
 
@@ -27,7 +31,7 @@ My research focuses on causal discovery, statistical inference, and machine lear
 (* denotes equal contribution; full list available on [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://github.com/renyixin666/renyixin.github.io/blob/master/_pages/publications.md))
 
 - [**Regression-based Conditional Independence Test with Adaptive Kernels**](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001109)  
-  **Yixin Ren**, Juncai Zhang, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
+  **Yixin Ren**\*, Juncai Zhang\*, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
   *The journal of Artificial Intelligence (AIJ), 2025*
 
 - [**Score-based Generative Modeling for Conditional Independence Testing**](https://arxiv.org/pdf/2505.23309)  
