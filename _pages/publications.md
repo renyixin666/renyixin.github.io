@@ -33,7 +33,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
 **Statistical Testing**
-- Regression-based Conditional Independence Test with Adaptive Kernels.  
+- [Regression-based Conditional Independence Test with Adaptive Kernels](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001109).  
   **Yixin Ren**, Juncai Zhang, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
   The journal of Artificial Intelligence (**AIJ 2025**) 
   
