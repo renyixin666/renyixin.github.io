@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Notes"
 permalink: /md1/
 author_profile: true
