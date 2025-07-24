@@ -14,4 +14,4 @@ collection: notes
 - Multi-head attention
 - Layer normalization
 
-📎 [Download Poster (PDF)](/renyixin.github.io/files/paper1.pdf)
+📎 [Download Poster (PDF)](https://renyixin666.github.io/files/paper1.pdf)
