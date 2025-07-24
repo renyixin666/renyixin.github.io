@@ -4,7 +4,6 @@ title: "Notes"
 permalink: /md1/
 author_profile: true
 date: 2025-07-23
-layout: single
 collection: notes
 ---
 
