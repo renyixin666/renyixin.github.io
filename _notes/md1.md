@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Notes"
+title: "Blog & Notes"
 permalink: /md1/
 author_profile: false
 date: 2025-07-23
