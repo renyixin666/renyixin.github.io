@@ -5,4 +5,11 @@ layout: single
 collection: notes
 ---
 
-- 📄 **描述**：关于 Transformer 注意力机制的可视化分析。
+## Key Concepts
+
+- Self-attention mechanism
+- Positional encoding
+- Multi-head attention
+- Layer normalization
+
+📎 [Download Poster (PDF)](/files/paper1.pdf)
