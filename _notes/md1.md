@@ -9,4 +9,4 @@ collection: notes
 
 ## 📚 Useful Blogs（部分已翻译为中文）
 
-📎 [How to Train Really Large Models on Many GPUs?](../files/parallelismGPUs.html)
+📎 [How to Train Really Large Models on Many GPUs?](../files/parallelismGPUs.pdf)
