@@ -7,11 +7,6 @@ date: 2025-07-23
 collection: notes
 ---
 
-## Key Concepts
+## 📚 Useful Blogs（部分已翻译为中文）
 
-- Self-attention mechanism
-- Positional encoding
-- Multi-head attention
-- Layer normalization
-
-📎 [Download Poster (PDF)](../files/paper1.pdf)
+📎 [How to Train Really Large Models on Many GPUs?](../files/How to Train Really Large Models on Many GPUs.pdf)
