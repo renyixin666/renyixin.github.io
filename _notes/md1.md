@@ -15,9 +15,9 @@ This page collects my curated blog posts, interview notes, and technical/mathema
 
 A curated list of high-quality blog articles and resources I’ve either translated or summarized:
 
-- 🧠 [How to Train Really Large Models on Many GPUs?](../files/parallelismGPUs.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: July 20, 2025</span>
+- [How to Train Really Large Models on Many GPUs?](../files/parallelismGPUs.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: July 20, 2025</span>
 
-- ✨ [Prompt Engineering](../files/Prompt_Engineering.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: July 25, 2025</span>
+- [Prompt Engineering](../files/Prompt_Engineering.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: July 25, 2025</span>
 
 
 
@@ -25,7 +25,7 @@ A curated list of high-quality blog articles and resources I’ve either transla
 
 A collection of technical topics, algorithms, system design principles, and domain knowledge tailored for interviews.
 
-- 📌 Coming soon...
+- Coming soon...
 
 
 
@@ -33,5 +33,5 @@ A collection of technical topics, algorithms, system design principles, and doma
 
 This section includes concise explanations and references for optimization algorithms, graph models, loss functions, and other useful tools.
 
-- 📌 Coming soon...
+- Coming soon...
 
