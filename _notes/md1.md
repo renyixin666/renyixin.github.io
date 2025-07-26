@@ -2,7 +2,7 @@
 layout: single
 title: "Blog & Notes"
 permalink: /md1/
-author_profile: false
+author_profile: true
 date: 2025-07-26
 collection: notes
 ---
