@@ -15,11 +15,9 @@ This page collects my curated blog posts, interview notes, and technical/mathema
 
 A curated list of high-quality blog articles and resources I’ve either translated or summarized:
 
-- 🧠 [How to Train Really Large Models on Many GPUs?](../files/parallelismGPUs.pdf)  
-  <span style="font-size: 0.9em; color: gray;">🕒 Last updated: July 20, 2025</span>
+- 🧠 [How to Train Really Large Models on Many GPUs?](../files/parallelismGPUs.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: July 20, 2025</span>
 
-- ✨ [Prompt Engineering](../files/Prompt_Engineering.pdf)  
-  <span style="font-size: 0.9em; color: gray;">🕒 Last updated: July 25, 2025</span>
+- ✨ [Prompt Engineering](../files/Prompt_Engineering.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: July 25, 2025</span>
 
 
 
