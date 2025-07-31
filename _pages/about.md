@@ -76,6 +76,7 @@ My research focuses on causal discovery, statistical inference, and machine lear
 
 ### ✍️ Academic Service  
 - **Reviewer**: ICML, NeurIPS, ICLR, AAAI, AISTATS
+- Program Committee of AAAI 2026
 
 ### 📐 Teaching Experience  
 - **Teaching Assistant**:  
