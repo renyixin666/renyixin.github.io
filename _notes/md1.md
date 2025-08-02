@@ -19,6 +19,7 @@ A curated list of high-quality blog articles and resources I’ve either transla
 
 - [Prompt Engineering](../files/Prompt_Engineering.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: July 25, 2025</span>
 
+- [Large Transformer Model Inference Optimization](../files/Large-Transformer-Model-Inference-Optimization.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: July 27, 2025</span>
 
 
 ## 🎯 Interview Notes
