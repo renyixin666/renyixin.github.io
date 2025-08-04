@@ -31,6 +31,8 @@ A curated list of high-quality blog articles and resources I’ve either transla
 
 **Reinforcement Learning (RL):**
 
+**Generative Models:**
+
 ## 🎯 Interview Notes
 
 A collection of technical topics, algorithms, system design principles, and domain knowledge tailored for interviews.
