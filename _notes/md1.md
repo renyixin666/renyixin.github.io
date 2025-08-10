@@ -23,7 +23,7 @@ A curated list of high-quality blog articles and resources I’ve either transla
 
 - [Large Transformer Model Inference Optimization](../files/Large-Transformer-Model-Inference-Optimization.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: July 27, 2025</span>
 
-- [The Cache–Performance Trade-off: From MHA to MQA, GQA, and MLA] <span style="font-size: 0.9em; color: gray;"> Last updated: July 28, 2025</span>
+- [The Cache–Performance Trade-off: From MHA to MQA, GQA, and MLA](../files/MLA.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: July 28, 2025</span>
 
 - [FlashAttention V1 to V3] <span style="font-size: 0.9em; color: gray;"> Last updated: July 28, 2025</span>
 
