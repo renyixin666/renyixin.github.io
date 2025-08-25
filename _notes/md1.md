@@ -27,6 +27,8 @@ A curated list of high-quality blog articles and resources I’ve either transla
 
 - [FlashAttention V1 to V3] <span style="font-size: 0.9em; color: gray;"> Last updated: July 28, 2025</span>
 
+- [A Unified Paradigm: SFT, RFT, DPO, Online RFT, PPO, GRPO](../files/Paradigm.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: July 30, 2025</span>
+
 **Multimodal Large Language Models (MLLMs):**
 
 **Reinforcement Learning (RL):**
