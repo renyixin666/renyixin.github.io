@@ -54,10 +54,6 @@ My research focuses on causal discovery, statistical inference, and machine lear
   Hao Zhang, **Yixin Ren**, Yewei Xia, Shuigeng Zhou, Jihong Guan.  
   *IEEE TPAMI*
 
-- [**Learning Adaptive Kernels for Statistical Independence Tests**](https://proceedings.mlr.press/v238/ren24a/ren24a.pdf)  
-  **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
-  *AISTATS 2024*
-
 - [**Multi-Level Wavelet Mapping Correlation for Statistical Dependence Measurement**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:eQOLeE2rZwMC)  
   **Yixin Ren**, Hao Zhang, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   *AAAI 2023* (Oral)
