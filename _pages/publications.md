@@ -70,4 +70,8 @@ Sorted by Research Topics (* denotes equal contribution;)
 - [Hybrid Causal Feature Selection for Cancer Biomarker Identification from RNA-seq Data](https://ieeexplore.ieee.org/abstract/document/10541056).  
   Wenwei Xu\*, Hao Zhang\*, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
+
+- AdaMM: An Adaptive Multimodal Model with Learnable Weights for Protein-ligand Affinity Prediction
+  Juncai Zhang, Huazhen Huang, Jianbo Zhao, **Yixin Ren**, Yuzhong Peng, Ruxin Wang, Hao Zhang
+  The IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**)
   
