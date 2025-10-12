@@ -80,6 +80,7 @@ My research focuses on causal discovery, statistical inference, and machine lear
     Enrollment: 21 graduate students
 
 ### 🥇 Awards  
+- National Doctoral Scholarship, Fudan University  
 - First Prize, Chinese Mathematics Competitions (CMC), First Place in Anhui Province Preliminary Round
 
 ### 🧩 Miscellaneous  
