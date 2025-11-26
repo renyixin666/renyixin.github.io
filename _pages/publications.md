@@ -58,7 +58,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   Chenghou Jin\*, **Yixin Ren**\*, Hongxu Ma\*, Yewei Xia, Yi Guan, Hao Zhang, Jiandong Ding, Jihong Guan, Shuigeng Zhou.  
   40th AAAI Conference on Artificial Intelligence (**AAAI 2026**)
   
-- [Mitigating Knowledge Forgetting by Generative Knowledge Replay and Forgetting-aware Aggregation in Semi-Supervised Federated Learning]().  
+- [Mitigating Knowledge Forgetting by Generative Knowledge Replay and Forgetting-aware Aggregation in Semi-Supervised Federated Learning](https://www.researchgate.net/publication/397086277_Mitigating_Knowledge_Forgetting_by_Generative_Knowledge_Replay_and_Forgetting-aware_Aggregation_in_Semi-Supervised_Federated_Learning).  
   Hongquan Liu, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   IEEE International Conference on Multimedia & Expo (**ICME 2025**)  
   
@@ -68,7 +68,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   
 - [Incremental graph classification by class prototype construction and augmentation](https://dl.acm.org/doi/abs/10.1145/3583780.3614932).   
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.    
-  Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023 (Oral)**)
+  Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**)
 
 **Discover Causal Knowledge in Biological Data**
 - [Hybrid Causal Feature Selection for Cancer Biomarker Identification from RNA-seq Data](https://ieeexplore.ieee.org/abstract/document/10541056).  
