@@ -53,7 +53,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   **Yixin Ren**, Hao Zhang, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
-**Deep Learning**
+**Deep Learning: Continual Learning, Recommendation System, Federated Learning**  
 - [Invariant Feature Learning for Counterfactual Watch-time Prediction in Video Recommendation]()  
   Chenghou Jin\*, **Yixin Ren**\*, Hongxu Ma\*, Yewei Xia, Yi Guan, Hao Zhang, Jiandong Ding, Jihong Guan, Shuigeng Zhou.  
   40th AAAI Conference on Artificial Intelligence (**AAAI 2026**)
