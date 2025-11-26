@@ -54,15 +54,15 @@ Sorted by Research Topics (* denotes equal contribution;)
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
 **Deep Learning: Continual Learning, Recommendation System, Federated Learning**  
-- [Invariant Feature Learning for Counterfactual Watch-time Prediction in Video Recommendation]()  
+- [Invariant Feature Learning for Counterfactual Watch-time Prediction in Video Recommendation]().  
   Chenghou Jin\*, **Yixin Ren**\*, Hongxu Ma\*, Yewei Xia, Yi Guan, Hao Zhang, Jiandong Ding, Jihong Guan, Shuigeng Zhou.  
   40th AAAI Conference on Artificial Intelligence (**AAAI 2026**)
   
-- [Mitigating Knowledge Forgetting by Generative Knowledge Replay and Forgetting-aware Aggregation in Semi-Supervised Federated Learning]()  
+- [Mitigating Knowledge Forgetting by Generative Knowledge Replay and Forgetting-aware Aggregation in Semi-Supervised Federated Learning]().  
   Hongquan Liu, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   IEEE International Conference on Multimedia & Expo (**ICME 2025**)  
   
-- [A New Model for Prototype-based Continual Learning in Hyperspherical Space](https://ieeexplore.ieee.org/abstract/document/10887811)  
+- [A New Model for Prototype-based Continual Learning in Hyperspherical Space](https://ieeexplore.ieee.org/abstract/document/10887811).    
   **Yixin Ren**, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.  
   IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2025**)
   
@@ -75,7 +75,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   Wenwei Xu\*, Hao Zhang\*, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
 
-- AdaMM: An Adaptive Multimodal Model with Learnable Weights for Protein-ligand Affinity Prediction
+- AdaMM: An Adaptive Multimodal Model with Learnable Weights for Protein-ligand Affinity Prediction  
   Juncai Zhang, Huazhen Huang, Jianbo Zhao, **Yixin Ren**, Yuzhong Peng, Ruxin Wang, Hao Zhang  
   The IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2025**)
   
