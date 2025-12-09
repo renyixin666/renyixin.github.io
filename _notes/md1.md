@@ -56,4 +56,4 @@ Concise summaries and references for foundational mathematical tools and techniq
 
 - [Neural Tangent Kernels]
 
-- [Regularized Regression - Lasso, Group Lasso](../files/Regularized_Regression.pdf)
+- [Regularized Regression - Lasso, Group Lasso](../files/Regularized.pdf)
