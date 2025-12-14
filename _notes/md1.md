@@ -35,12 +35,6 @@ A curated list of high-quality blog articles and resources I’ve either transla
 
 **Generative Models:**
 
-## 🎯 Interview Notes
-
-A collection of technical topics, algorithms, system design principles, and domain knowledge tailored for interviews.
-
-- Coming soon...
-
 
 
 ## 📐 Math & Techniques
@@ -56,4 +50,6 @@ Concise summaries and references for foundational mathematical tools and techniq
 
 - [Neural Tangent Kernels]
 
-- [Regularized Regression - Lasso, Group Lasso](../files/Regularized.pdf)
+- [Regularized Regression - Lasso, Group Lasso](../files/Regularized.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: December 01, 2025</span>
+
+- [Computational Optimal Transport](../files/OT.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: December 01, 2025</span>
