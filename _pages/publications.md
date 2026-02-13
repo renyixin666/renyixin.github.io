@@ -12,7 +12,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   Yewei Xia, Zhengming Chen, Haoyue Dai, Fuhong Wang, **Yixin Ren**, Yiqing Li, Kun Zhang, Shuigeng Zhou.  
   14th International Conference on Learning Representations (**ICLR 2026**)
 
-- Causal Discovery by Multi-Level Wavelet Mapping Correlation Based Statistical Dependence Measurement.
+- Causal Discovery by Multi-Level Wavelet Mapping Correlation Based Statistical Dependence Measurement.  
   **Yixin Ren**, Hao Zhang, Yewei Xia, Feng Xie, Jihong Guan, Shuigeng Zhou.
   ACM Transactions on Knowledge Discovery from Data (**TKDD**)
   
