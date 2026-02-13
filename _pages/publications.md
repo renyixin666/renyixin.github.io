@@ -58,7 +58,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
 **Deep Learning: Continual Learning, Recommendation System, Federated Learning**  
-- [FedOpenMatch: Towards Semi-Supervised Federated Learning in Open-Set Environments]().
+- [FedOpenMatch: Towards Semi-Supervised Federated Learning in Open-Set Environments]().  
   Hongquan Liu, ChenyuGuo, **Yixin Ren**, Jihong Guan, Shuigeng Zhou  
   14th International Conference on Learning Representations (**ICLR 2026**)
   
