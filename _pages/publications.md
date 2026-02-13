@@ -11,6 +11,10 @@ Sorted by Research Topics (* denotes equal contribution;)
 - Conditional Independent Component Analysis for Estimating Causal Structure with Latent Variables.  
   Yewei Xia, Zhengming Chen, Haoyue Dai, Fuhong Wang, **Yixin Ren**, Yiqing Li, Kun Zhang, Shuigeng Zhou.  
   14th International Conference on Learning Representations (**ICLR 2026**)
+
+- Causal Discovery by Multi-Level Wavelet Mapping Correlation Based Statistical Dependence Measurement.
+  **Yixin Ren**, Hao Zhang, Yewei Xia, Feng Xie, Jihong Guan, Shuigeng Zhou.
+  ACM Transactions on Knowledge Discovery from Data (**TKDD**)
   
 - [Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise.](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4147.pdf)  
   Yewei Xia\*, Xueliang Cui\*, Hao Zhang, **Yixin Ren**, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.  
