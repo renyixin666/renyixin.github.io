@@ -33,7 +33,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
   
 - [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743).  
-  Yewei Xia, Hao Zhang, **Yixin Ren**, Jihong Guan, and Shuigeng Zhou.  
+  Yewei Xia, Hao Zhang, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
 
 - [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
@@ -63,7 +63,7 @@ Sorted by Research Topics (* denotes equal contribution;)
 
 **Deep Learning: Continual Learning, Recommendation System, Federated Learning**  
 - [FedOpenMatch: Towards Semi-Supervised Federated Learning in Open-Set Environments]().  
-  Hongquan Liu, ChenyuGuo, **Yixin Ren**, Jihong Guan, Shuigeng Zhou  
+  Hongquan Liu, ChenyuGuo, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   14th International Conference on Learning Representations (**ICLR 2026**)
   
 - [Invariant Feature Learning for Counterfactual Watch-time Prediction in Video Recommendation]().  
@@ -88,6 +88,6 @@ Sorted by Research Topics (* denotes equal contribution;)
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
 
 - AdaMM: An Adaptive Multimodal Model with Learnable Weights for Protein-ligand Affinity Prediction  
-  Juncai Zhang, Huazhen Huang, Jianbo Zhao, **Yixin Ren**, Yuzhong Peng, Ruxin Wang, Hao Zhang  
+  Juncai Zhang, Huazhen Huang, Jianbo Zhao, **Yixin Ren**, Yuzhong Peng, Ruxin Wang, Hao Zhang.  
   The IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2025**)
   
