@@ -8,7 +8,7 @@ author_profile: true
 Sorted by Research Topics (* denotes equal contribution;)
 
 **Causal Discovery under the Practical Issues**
-- Conditional Independent Component Analysis for Estimating Causal Structure with Latent Variables.  
+- [Conditional Independent Component Analysis for Estimating Causal Structure with Latent Variables](https://openreview.net/pdf?id=TAOpnCPnjg).      
   Yewei Xia, Zhengming Chen, Haoyue Dai, Fuhong Wang, **Yixin Ren**, Yiqing Li, Kun Zhang, Shuigeng Zhou.  
   14th International Conference on Learning Representations (**ICLR 2026**)
 
@@ -16,11 +16,11 @@ Sorted by Research Topics (* denotes equal contribution;)
   **Yixin Ren**, Hao Zhang, Yewei Xia, Feng Xie, Jihong Guan, Shuigeng Zhou.  
   ACM Transactions on Knowledge Discovery from Data (**TKDD**)
   
-- [Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise.](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4147.pdf)  
+- [Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4147.pdf).     
   Yewei Xia\*, Xueliang Cui\*, Hao Zhang, **Yixin Ren**, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.  
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**) 
 
-- [Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags.](https://www.ijcai.org/proceedings/2025/1011.pdf)   
+- [Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags](https://www.ijcai.org/proceedings/2025/1011.pdf).      
   Yewei Xia\*, **Yixin Ren**\*, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**) 
   
@@ -62,8 +62,8 @@ Sorted by Research Topics (* denotes equal contribution;)
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
 **Deep Learning: Continual Learning, Recommendation System, Federated Learning**  
-- [FedOpenMatch: Towards Semi-Supervised Federated Learning in Open-Set Environments]().  
-  Hongquan Liu, ChenyuGuo, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
+- [FedOpenMatch: Towards Semi-Supervised Federated Learning in Open-Set Environments](https://openreview.net/pdf?id=5UrPAW3uI1).  
+  Hongquan Liu, Chenyu Guo, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   14th International Conference on Learning Representations (**ICLR 2026**)
   
 - [Invariant Feature Learning for Counterfactual Watch-time Prediction in Video Recommendation]().  
