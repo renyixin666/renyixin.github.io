@@ -71,7 +71,7 @@ My research focuses on causal discovery, statistical inference, and machine lear
   *ICDM 2023* (Regular Paper, acceptance rate ~9.37%)
 
 ### ✍️ Academic Service  
-- **Reviewer**: ICML, NeurIPS, ICLR, AAAI, AISTATS
+- **Reviewer**: ICML, NeurIPS, ICLR, KDD, AAAI, AISTATS
 
 ### 📐 Teaching Experience  
 - **Teaching Assistant**:  
