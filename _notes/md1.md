@@ -53,3 +53,8 @@ Concise summaries and references for foundational mathematical tools and techniq
 - [Regularized Regression - Lasso, Group Lasso](../files/Regularized.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: December 01, 2025</span>
 
 - [Computational Optimal Transport](../files/OT.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: December 01, 2025</span>
+
+
+## 💡 Just for Fun
+
+- [Introduction to Bioinformatics A Computer Science Perspective](../files/Introduction to Bioinformatics A Computer Science Perspective.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: March 01, 2026</span>
