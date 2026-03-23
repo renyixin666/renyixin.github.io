@@ -12,7 +12,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   Yewei Xia, Zhengming Chen, Haoyue Dai, Fuhong Wang, **Yixin Ren**, Yiqing Li, Kun Zhang, Shuigeng Zhou.  
   14th International Conference on Learning Representations (**ICLR 2026**)
 
-- Causal Discovery by Multi-Level Wavelet Mapping Correlation Based Statistical Dependence Measurement.  
+- [Causal Discovery by Multi-Level Wavelet Mapping Correlation Based Statistical Dependence Measurement](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:_kc_bZDykSQC).  
   **Yixin Ren**, Hao Zhang, Yewei Xia, Feng Xie, Jihong Guan, Shuigeng Zhou.  
   ACM Transactions on Knowledge Discovery from Data (**TKDD**)
   
@@ -66,7 +66,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   Hongquan Liu, Chenyu Guo, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   14th International Conference on Learning Representations (**ICLR 2026**)
   
-- [Invariant Feature Learning for Counterfactual Watch-time Prediction in Video Recommendation]().  
+- [Invariant Feature Learning for Counterfactual Watch-time Prediction in Video Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/38518).  
   Chenghou Jin\*, **Yixin Ren**\*, Hongxu Ma\*, Yewei Xia, Yi Guan, Hao Zhang, Jiandong Ding, Jihong Guan, Shuigeng Zhou.  
   40th AAAI Conference on Artificial Intelligence (**AAAI 2026**)
   
@@ -78,7 +78,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   **Yixin Ren**, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.  
   IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2025**)
   
-- [Incremental graph classification by class prototype construction and augmentation](https://dl.acm.org/doi/abs/10.1145/3583780.3614932).   
+- [Incremental graph classification by class prototype construction and augmentation](https://dl.acm.org/doi/abs/10.1145/3583780.3614932).  
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.    
   Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**)
 
@@ -87,7 +87,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   Wenwei Xu\*, Hao Zhang\*, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
 
-- AdaMM: An Adaptive Multimodal Model with Learnable Weights for Protein-ligand Affinity Prediction  
+- [AdaMM: An Adaptive Multimodal Model with Learnable Weights for Protein-ligand Affinity Prediction](https://ieeexplore.ieee.org/abstract/document/11356513/).  
   Juncai Zhang, Huazhen Huang, Jianbo Zhao, **Yixin Ren**, Yuzhong Peng, Ruxin Wang, Hao Zhang.  
   The IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2025**)
   
