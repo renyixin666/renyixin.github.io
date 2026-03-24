@@ -55,6 +55,6 @@ Concise summaries and references for foundational mathematical tools and techniq
 - [Computational Optimal Transport](../files/OT.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: December 01, 2025</span>
 
 
-## 💡 Just for Fun
+## 💡 Others
 
-- [Introduction to Bioinformatics A Computer Science Perspective](../files/Intro_Bioinformatics.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: March 01, 2026</span>
+- [Introduction to Bioinformatics: A Computer Science Perspective](../files/Intro_Bioinformatics.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: March 01, 2026</span>
