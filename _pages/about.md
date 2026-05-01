@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 **Yixin Ren (任一鑫)**  
-Fourth-year PhD student at Fudan University  
+Final-year PhD student at Fudan University  
+Incoming Associate Research Fellow at SIAT, Chinese Academy of Sciences  
 Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
-I am a PhD student in the Department of Computer Science at Fudan University, where I work under the supervision of Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I completed my B.S. in Automation at University of Science and Technology of China. 
+
+I am a final-year PhD student in the Department of Computer Science at Fudan University, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). I will soon join the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, as an Associate Research Fellow. Previously, I received my B.S. degree in Automation from the University of Science and Technology of China.
 
 Internship Experience:
 I have interned at Alibaba and the Huawei Terminal Cloud Department. Currently, I am participating in a research internship at Tencent as part of the Rhino-Bird Talent Cultivation Program.
@@ -20,7 +22,7 @@ I have interned at Alibaba and the Huawei Terminal Cloud Department. Currently, 
 Academic Collaboration:
 I have worked as a research assistant at The Chinese University of Hong Kong under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). I am also collaborating with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences.
 
-My research focuses on causal discovery, statistical inference, and machine learning. My recent interest is in RLHF applications in gaming scenarios. I am open to collaboration opportunities, so feel free to reach out. 
+My research interests include causal discovery, statistical inference, and machine learning. Recently, I have been particularly interested in causal representation learning for biomedicine. I am open to collaboration opportunities, so feel free to reach out. 
 
 ### 🔥 Research Interests
 - **Causal Discovery**: Addressing practical challenges in discovering causal relationships.
