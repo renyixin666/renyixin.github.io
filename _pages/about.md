@@ -32,6 +32,14 @@ My research interests include causal discovery, statistical inference, and machi
 ### 📝 Selected Publications  
 (* denotes equal contribution; full list available on [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://github.com/renyixin666/renyixin.github.io/blob/master/_pages/publications.md))
 
+- Streaming Covariate Balancing via Discrepancy-Based Feature Coresets  
+  **Yixin Ren**, Chenghou Jin, Yewei Xia, Zichuan Lin, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  ICML 2026  
+  
+- Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients  
+  **Yixin Ren**\*, Hongquan Liu\*, Juncai Zhang, Yewei Xia, Zichuan Lin, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  ICML 2026  
+
 - [**Regression-based Conditional Independence Test with Adaptive Kernels**](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001109)  
   **Yixin Ren**\*, Juncai Zhang\*, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
   *The journal of Artificial Intelligence (AIJ), 2025*
