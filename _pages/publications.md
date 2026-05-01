@@ -7,7 +7,11 @@ author_profile: true
 
 Sorted by Research Topics (* denotes equal contribution;)
 
-**Causal Discovery under the Practical Issues**
+**Causal Learning under the Practical Issues**
+- Streaming Covariate Balancing via Discrepancy-Based Feature Coresets  
+  **Yixin Ren**, Chenghou Jin, Yewei Xia, Zichuan Lin, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  **ICML 2026**
+
 - [Conditional Independent Component Analysis for Estimating Causal Structure with Latent Variables](https://openreview.net/pdf?id=TAOpnCPnjg).      
   Yewei Xia, Zhengming Chen, Haoyue Dai, Fuhong Wang, **Yixin Ren**, Yiqing Li, Kun Zhang, Shuigeng Zhou.  
   14th International Conference on Learning Representations (**ICLR 2026**)
@@ -41,6 +45,10 @@ Sorted by Research Topics (* denotes equal contribution;)
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
 **Statistical Testing**
+- Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients  
+  **Yixin Ren**\*, Hongquan Liu\*, Juncai Zhang, Yewei Xia, Zichuan Lin, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  **ICML 2026**
+  
 - [Regression-based Conditional Independence Test with Adaptive Kernels](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001109).  
   **Yixin Ren**\*, Juncai Zhang\*, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
   The journal of Artificial Intelligence (**AIJ 2025**) 
@@ -82,7 +90,7 @@ Sorted by Research Topics (* denotes equal contribution;)
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.    
   Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**)
 
-**Discover Causal Knowledge in Biological Data**
+**Bioinformation**
 - [Hybrid Causal Feature Selection for Cancer Biomarker Identification from RNA-seq Data](https://ieeexplore.ieee.org/abstract/document/10541056).  
   Wenwei Xu\*, Hao Zhang\*, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
