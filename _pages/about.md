@@ -14,7 +14,7 @@ Incoming Associate Research Fellow at SIAT, Chinese Academy of Sciences
 Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
 
-I am a final-year PhD student in the Department of Computer Science at Fudan University, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). I will soon join the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, as an Associate Research Fellow. Previously, I received my B.S. degree in Automation from the University of Science and Technology of China.
+I am a final-year PhD student in the Department of Computer Science at Fudan University, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I received my B.S. degree in Automation from the University of Science and Technology of China.
 
 Internship Experience:
 I have interned at Alibaba and the Huawei Terminal Cloud Department. Currently, I am participating in a research internship at Tencent as part of the Rhino-Bird Talent Cultivation Program.
