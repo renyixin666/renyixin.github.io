@@ -34,11 +34,11 @@ My research interests include causal discovery, statistical inference, and machi
 
 - Streaming Covariate Balancing via Discrepancy-Based Feature Coresets  
   **Yixin Ren**, Chenghou Jin, Yewei Xia, Zichuan Lin, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
-  ICML 2026  
+  *ICML 2026*  
   
 - Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients  
   **Yixin Ren**\*, Hongquan Liu\*, Juncai Zhang, Yewei Xia, Zichuan Lin, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
-  ICML 2026  
+  *ICML 2026* 
 
 - [**Regression-based Conditional Independence Test with Adaptive Kernels**](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001109)  
   **Yixin Ren**\*, Juncai Zhang\*, Yewei Xia, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.  
@@ -48,10 +48,6 @@ My research interests include causal discovery, statistical inference, and machi
   **Yixin Ren**\*, Chenghou Jin\*, Yewei Xia, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *KDD 2025* (Research Track)
 
-- **Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags**      
-  Yewei Xia\*, **Yixin Ren**\*, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
-  *IJCAI 2025*
-  
 - [**Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity**](https://arxiv.org/pdf/2412.17717?)  
   **Yixin Ren**\*, Haocheng Zhang\*, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *KDD 2025* (Research Track)
@@ -68,17 +64,9 @@ My research interests include causal discovery, statistical inference, and machi
   **Yixin Ren**, Hao Zhang, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   *AAAI 2023* (Oral)
 
-- [**Differentially Private Nonlinear Causal Discovery from Numerical Data**](https://ojs.aaai.org/index.php/AAAI/article/view/26452)  
-  Hao Zhang, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
-  *AAAI 2023*
-
 - [**Incremental Graph Classification by Class Prototype Construction and Augmentation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:_FxGoFyzp5QC)  
   **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.  
   *CIKM 2023* (Oral)
-
-- [**Causal Discovery by Continuous Optimization with Conditional Independence Constraint**](https://ieeexplore.ieee.org/abstract/document/10415743)  
-  Yewei Xia, Hao Zhang, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
-  *ICDM 2023* (Regular Paper, acceptance rate ~9.37%)
 
 ### ✍️ Academic Service  
 - **Reviewer**: ICML, NeurIPS, ICLR, KDD, AAAI, AISTATS
