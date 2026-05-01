@@ -87,6 +87,7 @@ My research interests include causal discovery, statistical inference, and machi
 - I appreciate abstract art, particularly Picasso’s works, as well as the elegant simplicity of mathematical structures.  
 - I enjoy singing, especially songs by Jacky Cheung, Eason Chan, and more recently, Jian Li.
 - Recently I've been interested in using suno ai for music generation.
+- I have also recently taken an interest in go-karting.
 
 ### Useful Links
 - [**Generative Modeling by Estimating Gradients of the Data Distribution**](https://yang-song.net/blog/2021/score/), by Yang Song
