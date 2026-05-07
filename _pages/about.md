@@ -10,7 +10,7 @@ redirect_from:
 
 **Yixin Ren (任一鑫)**  
 Final-year PhD student at Fudan University  
-Incoming Associate Research Fellow at SIAT, Chinese Academy of Sciences  
+Incoming Associate Professor at SIAT, Chinese Academy of Sciences  
 Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
 
