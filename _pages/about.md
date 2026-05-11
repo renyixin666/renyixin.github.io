@@ -89,11 +89,13 @@ My research interests include causal discovery, statistical inference, and machi
 - Recently I've been interested in using suno ai for music generation.
 - I have also recently taken an interest in go-karting.
 
-### Useful Links
+### Useful Links  
 - [**Generative Modeling by Estimating Gradients of the Data Distribution**](https://yang-song.net/blog/2021/score/), by Yang Song
-- [**Perspectives on diffusion**](https://sander.ai/2023/07/20/perspectives.html), by Sander Dieleman
+- [**Perspectives on Diffusion**](https://sander.ai/2023/07/20/perspectives.html), by Sander Dieleman
 - [**Diffusion Models for Video Generation**](https://lilianweng.github.io/posts/2024-04-12-diffusion-video), by Lilian Weng
 - [**Low Rank Methods**](https://www.ethanepperly.com/index.php/posts-by-topic/), by Ethan N. Epperly
+- [**Prescriptive Scaling for Language Models**](https://jkjin.com/prescriptive-scaling/)
+- [**Beautiful Visual Explanations**](https://www.cs.cmu.edu/~kmcrane/), by Keenan Crane
 
 
 []()
