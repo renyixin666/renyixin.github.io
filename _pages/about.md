@@ -19,10 +19,10 @@ Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
  
 I am a final-year PhD student in the Department of Computer Science at Fudan University, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I received my B.S. degree in Automation from the University of Science and Technology of China.
 
-Internship Experience:
+*Internship Experience:*
 I have interned at Alibaba, Huawei Terminal Cloud Department, and Tencent, where I participated in a research internship as part of the Rhino-Bird Talent Cultivation Program. 
 
-Academic Collaboration:
+*Academic Collaboration:*
 I have worked as a research assistant at The Chinese University of Hong Kong under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). I am also collaborating with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences.
 
 My research interests include causal discovery, statistical inference, and machine learning. Recently, I have been particularly interested in causal representation learning for biomedicine. I am open to collaboration opportunities, so feel free to reach out. 
@@ -81,7 +81,8 @@ My research interests include causal discovery, statistical inference, and machi
     Enrollment: 21 graduate students
 
 ### 🥇 Awards  
-- National Doctoral Scholarship, Fudan University  
+- National Doctoral Scholarship, Fudan University
+- Neural Network Intelligence (NNI) by MSRA, Outstanding Project
 - First Prize, Chinese Mathematics Competitions (CMC), First Place in Anhui Province Preliminary Round
 
 ### 🧩 Miscellaneous  
