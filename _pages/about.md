@@ -17,7 +17,7 @@ Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
 ### 🏖️ Biography
  
-I am a final-year PhD student in the Department of Computer Science at Fudan University, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I received my B.S. degree in Automation from the University of Science and Technology of China.
+I am a final-year PhD student in the Department of Computer Science at Fudan University, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I received my B.S. degree in Automation from the University of Science and Technology of China (USTC).
 
 *Internship Experience:*
 I have interned at Alibaba, Huawei Terminal Cloud Department, and Tencent, where I participated in a research internship as part of the Rhino-Bird Talent Cultivation Program. 
