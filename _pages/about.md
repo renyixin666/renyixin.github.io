@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Yixin Ren (任一鑫)"
+excerpt: "Yixin Ren (任一鑫)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-## **Yixin Ren (任一鑫)**  
 
 Final-year PhD student at Fudan University  
 Incoming Associate Professor at SIAT, Chinese Academy of Sciences  
