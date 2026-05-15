@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Final-year PhD student at Fudan University  
 Incoming Associate Professor at SIAT, Chinese Academy of Sciences  
 Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
