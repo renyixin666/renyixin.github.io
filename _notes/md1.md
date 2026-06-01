@@ -34,7 +34,7 @@ A curated list of high-quality blog articles and resources I’ve either transla
 **Reinforcement Learning (RL):**
 
 **Generative Models:**
-
+- [Diffusion Models for Image and Video Generation](../files/Diffusion_Models_for_Image_and_Video_Generation.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: Mar 30, 2026</span>
 
 
 ## 📐 Math & Techniques
