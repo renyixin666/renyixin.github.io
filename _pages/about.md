@@ -15,18 +15,13 @@ Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
  
 I am a final-year PhD student in the Department of Computer Science at Fudan University, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I received my B.S. degree in Automation from the University of Science and Technology of China (USTC).
 
-*Internship Experience:*
-I have interned at Alibaba, Huawei Terminal Cloud Department, and Tencent, where I participated in a research internship as part of the Rhino-Bird Talent Cultivation Program. 
+*Industry Internships and Academic Experience:*
+Beyond my doctoral research, I have gained industry experience through internships at Alibaba, Huawei Terminal Cloud Department, and Tencent, where I participated in a research internship as part of the Rhino-Bird Talent Cultivation Program. On the academic side, I have worked as a research assistant under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/) at The Chinese University of Hong Kong, and am collaborating with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences.
 
-*Academic Collaboration:*
-I have worked as a research assistant at The Chinese University of Hong Kong under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). I am also collaborating with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences.
-
-My research interests include causal discovery, statistical inference, and machine learning. Recently, I have been particularly interested in causal representation learning for biomedicine. I am open to collaboration opportunities, so feel free to reach out. 
 
 ### 🔥 Research Interests
-- **Causal Discovery**: Addressing practical challenges in discovering causal relationships.
-- **Statistical Inference**: Developing kernel-based hypothesis testing methods.
-- **Machine Learning**: Focusing on continual learning, recommendation systems, generative modeling and RLHF
+My research aims to build theoretical and algorithmic foundations for **causal learning** and decision-making in complex data-driven systems. Motivated by biomedical problems, I study practical challenges in causal discovery and causal inference, and develop statistical tools such as conditional independence testing for causal analysis. I have also explored how causal learning can benefit deep learning tasks, which further motivates my recent interest in causal representation learning. I am open to collaboration opportunities, so feel free to reach out.
+
 
 ### 📝 Selected Publications  
 (* denotes equal contribution; full list available on [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://github.com/renyixin666/renyixin.github.io/blob/master/_pages/publications.md))
@@ -82,12 +77,8 @@ My research interests include causal discovery, statistical inference, and machi
 - First Prize, Chinese Mathematics Competitions (CMC), First Place in Anhui Province Preliminary Round
 
 ### 🧩 Miscellaneous  
-- In my recent free time, I’ve developed an interest in learning about general relativity.  
-  *My childhood dream was to become a theoretical physicist, but due to life's circumstances, it has remained a hobby.*
-- I appreciate abstract art, particularly Picasso’s works, as well as the elegant simplicity of mathematical structures.  
-- I enjoy singing, especially songs by Jacky Cheung, Eason Chan, and more recently, Jian Li.
-- Recently I've been interested in using suno ai for music generation.
-- I have also recently taken an interest in go-karting.
+- I’m interested in physics, especially general relativity and the elegance of mathematical structures.
+- I enjoy AI-assisted music creation and have recently been exploring tools like Suno AI.
 
 ### Useful Links  
 - [**Generative Modeling by Estimating Gradients of the Data Distribution**](https://yang-song.net/blog/2021/score/), by Yang Song
