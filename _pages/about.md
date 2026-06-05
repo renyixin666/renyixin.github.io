@@ -20,7 +20,8 @@ Beyond my doctoral research, I have gained industry experience through internshi
 
 
 ### 🔥 Research Interests
-My research aims to build theoretical and algorithmic foundations for **causal learning** and decision-making in complex data-driven systems. Motivated by biomedical problems, I study practical challenges in causal discovery and causal inference, and develop statistical tools such as conditional independence testing for causal analysis. I have also explored how causal learning can benefit deep learning tasks, which further motivates my recent interest in causal representation learning. I am open to collaboration opportunities, so feel free to reach out.
+My research focuses on establishing theoretical and algorithmic foundations for mechanistic discovery and decision-making in systems governed by underlying causal rules. Motivated in part by biological problems, I study practical challenges in discovering causal relationships, where conditional independence testing serves as a key building block, and in inferring intervention effects, with a focus on computational and statistical efficiency. I also explore deep learning tasks from a causal perspective. Recently, I have been particularly interested in representation learning for bioinformatics problems. I am open to collaboration opportunities, so feel free to reach out.
+
 
 
 ### 📝 Selected Publications  
