@@ -13,10 +13,11 @@ Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
 ### 🏖️ Biography
  
-I am a final-year PhD student in the Department of Computer Science at Fudan University, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I received my B.S. degree in Automation from the University of Science and Technology of China (USTC).
+I received my Ph.D. degree in Computer Science from Fudan University in 2026, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Previously, I received my B.S. degree in Automation from the University of Science and Technology of China (USTC) in 2021.
+
 
 *Industry Internships and Academic Experience:*
-Beyond my doctoral research, I have gained industry experience through internships at Alibaba, Huawei Terminal Cloud Department, and Tencent, where I participated in a research internship as part of the Rhino-Bird Talent Cultivation Program. On the academic side, I have worked as a research assistant under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/) at The Chinese University of Hong Kong, and am collaborating with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences.
+Beyond my doctoral research, I interned at Alibaba, Huawei Terminal Cloud Department, and Tencent, where I conducted a research internship through the Rhino-Bird Talent Cultivation Program under the supervision of Dr. [Zichuan Lin](https://linzichuan.github.io/). On the academic side, I have worked as a research assistant under Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/) at The Chinese University of Hong Kong, and am collaborating with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences. 
 
 
 ### 🔥 Research Interests
@@ -66,11 +67,10 @@ My research focuses on establishing theoretical and algorithmic foundations for 
 ### ✍️ Academic Service  
 - **Reviewer**: ICML, NeurIPS, ICLR, KDD, AAAI, AISTATS
 
-### 📐 Teaching Experience  
-- **Teaching Assistant**:  
-  - 2023 Fudan Intensive Summer Course: *Foundations of Causal Inference and Discovery*  
-    Instructor: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html)  
-    Enrollment: 21 graduate students
+### 📐 Teaching Experience
+* Teaching Assistant, *Foundations of Causal Inference and Discovery*, Fudan Intensive Summer Course, 2023  
+  Instructor: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html)
+
 
 ### 🥇 Awards  
 - National Doctoral Scholarship, Fudan University
