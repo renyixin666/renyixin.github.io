@@ -60,3 +60,5 @@ Concise summaries and references for foundational mathematical tools and techniq
 - [Introduction to Bioinformatics: A Computer Science Perspective](../files/Intro_Bioinformatics.pdf)  <span style="font-size: 0.9em; color: gray;"> Last updated: March 01, 2026</span>
 
 - [Information Bottleneck in Deep Learning](../files/information_bottleneck_blog.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: May 01, 2026</span>
+
+- [A Unified View Of Representation Learning](../files/Unified_View_of_Representation_Learning.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: June 01, 2026</span>
