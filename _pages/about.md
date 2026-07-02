@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Incoming Associate Professor at SIAT, Chinese Academy of Sciences  
+Associate Professor at SIAT, Chinese Academy of Sciences  
 Email: [yxren21@m.fudan.edu.cn](mailto:yxren21@m.fudan.edu.cn)
 
 ### 🏖️ Biography
