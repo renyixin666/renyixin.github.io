@@ -11,7 +11,7 @@ collection: notes
 
 This page collects my curated blog posts, interview notes, and technical/mathematical resources. Content is regularly updated and categorized for easy reference.
 
-## 📘 Blog Highlights
+## 📘 Blog
 
 A curated list of high-quality blog articles and resources I’ve either translated or summarized:
 
@@ -25,7 +25,7 @@ A curated list of high-quality blog articles and resources I’ve either transla
 
 - [The Cache–Performance Trade-off: From MHA to MQA, GQA, and MLA](../files/MLA.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: July 28, 2025</span>
 
-- [FlashAttention V1 to V3] <span style="font-size: 0.9em; color: gray;"> Last updated: July 28, 2025</span>
+- [FlashAttention V1 to V4] <span style="font-size: 0.9em; color: gray;"> Last updated: </span>
 
 - [A Unified Paradigm: SFT, RFT, DPO, Online RFT, PPO, GRPO](../files/GRPO.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: July 30, 2025</span>
 
@@ -62,3 +62,5 @@ Concise summaries and references for foundational mathematical tools and techniq
 - [Information Bottleneck in Deep Learning](../files/information_bottleneck_blog.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: May 01, 2026</span>
 
 - [A Unified View Of Representation Learning](../files/Unified_View_of_Representation_Learning.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: June 01, 2026</span>
+
+- [Agentic Design Patterns](../files/Agentic_Design_Patterns.pdf) <span style="font-size: 0.9em; color: gray;"> Last updated: July 01, 2026</span>
