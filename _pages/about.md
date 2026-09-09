@@ -28,11 +28,11 @@ My research focuses on establishing theoretical and algorithmic foundations for 
 ### 📝 Selected Publications  
 (* denotes equal contribution; full list available on [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://github.com/renyixin666/renyixin.github.io/blob/master/_pages/publications.md))
 
-- Streaming Covariate Balancing via Discrepancy-Based Feature Coresets  
+- [**Streaming Covariate Balancing via Discrepancy-Based Feature Coresets**](https://openreview.net/pdf?id=hH0EknXrgc)    
   **Yixin Ren**, Chenghou Jin, Yewei Xia, Zichuan Lin, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *ICML 2026*  
   
-- Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients  
+- [**Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients**](https://openreview.net/pdf?id=Ovk43Z9KGC)    
   **Yixin Ren**\*, Hongquan Liu\*, Juncai Zhang, Yewei Xia, Zichuan Lin, Deheng Ye, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   *ICML 2026* 
 
